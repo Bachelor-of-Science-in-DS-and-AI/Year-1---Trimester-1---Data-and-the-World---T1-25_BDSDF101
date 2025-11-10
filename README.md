@@ -19,6 +19,6 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 ✅ Learning Objectives
 
-    By the end of the course, you will be able to:
+   By the end of the course, you will be able to:
     - Understand the evolution of data.
     - Understand the impact and significance of data, and how it is used, in today’s world.
