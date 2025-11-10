@@ -1,13 +1,13 @@
 # Data and the World T1_25_BDSDF101
 
-Welcome to the Course!
+✅ <b> Welcome to the Course! </b>
 
 This essential Week Zero module lays a strong foundation before we dive into the main content.
 
 Here, the focus is on connecting your personal goals with the learning journey ahead. You’ll reflect on your reasons for joining, 
 build motivation to stay engaged, and set yourself up for success as you progress through more complex topics.
 
-In this section, you will:
+✅ In this section, you will:
 
 - Discover the core purpose and real-world value of the course.
 - Understand the course structure, schedule, and key policies.
