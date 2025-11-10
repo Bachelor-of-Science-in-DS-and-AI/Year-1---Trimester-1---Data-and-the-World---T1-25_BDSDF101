@@ -18,7 +18,6 @@ By the end of this section, you’ll be able to clearly articulate your own why 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
 ✅ Learning Objectives
-
-By the end of the course, you will be able to:
-- Understand the evolution of data.
-- Understand the impact and significance of data, and how it is used, in today’s world.
+    By the end of the course, you will be able to:
+    - Understand the evolution of data.
+    - Understand the impact and significance of data, and how it is used, in today’s world.
