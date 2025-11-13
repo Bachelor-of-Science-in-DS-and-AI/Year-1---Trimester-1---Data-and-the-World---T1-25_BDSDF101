@@ -23,7 +23,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
    - Understand the evolution of data.
    - Understand the impact and significance of data, and how it is used, in today’s world.
 
-# ✅ Week 1: The Evolution of Data
+✅ Week 1: The Evolution of Data
 | Event | Topic |
 |-----------|-----------|
 | Video 1 | The Evolution of Data |
