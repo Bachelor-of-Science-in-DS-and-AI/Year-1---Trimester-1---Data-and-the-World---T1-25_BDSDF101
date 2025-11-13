@@ -33,7 +33,15 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | Week 1.1 Practice Quiz | The Evaluation of Data  |
 | Live Session |  |
 | Live Session Recording |  |
-| Assignment |  |
-| Graded Quiz |  |
 
+✅ Week 2: Data in Action- Powering Life, Safety & Strategy
+| lesson| Event | Topic |
+|----|-----------|-----------|
+| Lesson 1| Why Data - The Power of Data|
+| | Video 1 | Impact of Data in Today's World |
+| | Video 2 | Capabilities of Data |
+| | Reading | The Power of Data |
+| | Week 2.1 Practice Quiz | Why Data - The Power of Data  |
+| | Live Session |  |
+| | Live Session Recording |  |
 
