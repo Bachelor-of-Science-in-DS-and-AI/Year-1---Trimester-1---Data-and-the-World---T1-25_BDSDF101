@@ -19,6 +19,20 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 ✅ Program Structure
 #### Week 1: The Evolution of Data
+## Week 1: The Evolution of Data
+
+| Lesson / Activity | Video | Practice Quiz | Reading | Live Session |
+|--------------------|--------|----------------|----------|---------------|
+| **Lesson 1:** The Evolution of Data |  |  |  |  |
+| Video 1: The Evolution of Data | ✅ |  | 📖 *The Evolution of Data* |  |
+| Video 2: Data Explosion and Machine Intelligence | ✅ |  |  |  |
+| Video 3: Data Everywhere | ✅ |  |  |  |
+| Week 1.1 Practice Quiz |  | 🧩 *The Evaluation of Data* |  |  |
+| Live Session Recording |  |  |  | 🎥 *Design Discussion* |
+
+
+
+
 | Lesson| Video | Practice Quiz | Reading | Live Session |
 |-----------|-----------|----|----|----|
 | Lesson 1: The Evolution of Data|  
