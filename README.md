@@ -24,18 +24,18 @@ the course effectively. Let’s begin by strengthening your most valuable resour
    - Understand the impact and significance of data, and how it is used, in today’s world.
 
 ✅ Week 1: The Evolution of Data
-| Event | Topic |
-|-----------|-----------|
-| Video 1 | The Evolution of Data |
-| Video 2 | Data Explosion and Machine Intelligence |
-| Video 3 | Data Everywhere |
-| Reading | The Evolution of Data |
-| Week 1.1 Practice Quiz | The Evaluation of Data  |
-| Live Session |  |
-| Live Session Recording |  |
+| Lesson| Event | Topic |
+|----|-----------|-----------|
+| Lesson 1| Video 1 | The Evolution of Data |
+| | Video 2 | Data Explosion and Machine Intelligence |
+| | Video 3 | Data Everywhere |
+| | Reading | The Evolution of Data |
+| | Week 1.1 Practice Quiz | The Evaluation of Data  |
+| | Live Session |  |
+| | Live Session Recording |  |
 
 ✅ Week 2: Data in Action- Powering Life, Safety & Strategy
-| lesson| Event | Topic |
+| Lesson| Event | Topic |
 |----|-----------|-----------|
 | Lesson 1| Why Data - The Power of Data|
 | | Video 1 | Impact of Data in Today's World |
