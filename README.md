@@ -22,11 +22,10 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | Lesson| Video | Practice Quiz | Reading | Live Session |
 |-----------|-----------|----|----|----|
 | Lesson 1: The Evolution of Data|  
- | | | Video 1 | The Evolution of Data |
-| | | Video 2 | Data Explosion and Machine Intelligence |
-|| | Video 3 | Data Everywhere |
- ||||| Reading | The Evolution of Data |
-||||| | Week 1.1 Practice Quiz | The Evaluation of Data  |
+ | | Video 1: The Evolution of Data | | Reading | The Evolution of Data| |
+| | Video 2: Data Explosion and Machine Intelligence | |
+|| | Video 3: Data Everywhere | |
+ ||| Week 1.1 Practice Quiz | The Evaluation of Data  |
  ||||||| Live Session |  |
  | Live Session Recording |  |
 
