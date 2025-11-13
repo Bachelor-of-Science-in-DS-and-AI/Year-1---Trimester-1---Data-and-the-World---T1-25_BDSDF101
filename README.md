@@ -24,6 +24,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
    - Understand the impact and significance of data, and how it is used, in today’s world.
 
 ✅ Program Structure
+#### Week 1: The Evolution of Data
 | Week | Lesson| Video | Practice Quiz | Reading | Live Session |
 |----|-----------|-----------|----|----|----|
 |Week 1 | Lesson 1: The Evolution of Data|  
@@ -35,7 +36,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | ||||||| Live Session |  |
 | | Live Session Recording |  |
 
-✅ Week 2: Data in Action- Powering Life, Safety & Strategy
+#### Week 2: Data in Action- Powering Life, Safety & Strategy
 | Lesson| Event | Topic |
 |----|-----------|-----------|
 | Lesson 1: Why Data - The Power of Data| 
