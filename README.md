@@ -26,7 +26,8 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ✅ Week 1: The Evolution of Data
 | Lesson| Event | Topic |
 |----|-----------|-----------|
-| Lesson 1| Video 1 | The Evolution of Data |
+| Lesson 1| The Evolution of Data |
+| | Video 1 | The Evolution of Data |
 | | Video 2 | Data Explosion and Machine Intelligence |
 | | Video 3 | Data Everywhere |
 | | Reading | The Evolution of Data |
