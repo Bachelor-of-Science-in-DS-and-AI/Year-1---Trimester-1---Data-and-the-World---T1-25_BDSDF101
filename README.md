@@ -26,7 +26,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ✅ Week 1: The Evolution of Data
 | Lesson| Event | Topic |
 |----|-----------|-----------|
-| Lesson 1| The Evolution of Data |
+| Lesson 1: The Evolution of Data|  
 | | Video 1 | The Evolution of Data |
 | | Video 2 | Data Explosion and Machine Intelligence |
 | | Video 3 | Data Everywhere |
@@ -38,7 +38,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ✅ Week 2: Data in Action- Powering Life, Safety & Strategy
 | Lesson| Event | Topic |
 |----|-----------|-----------|
-| Lesson 1| Why Data - The Power of Data|
+| Lesson 1: Why Data - The Power of Data| 
 | | Video 1 | Impact of Data in Today's World |
 | | Video 2 | Capabilities of Data |
 | | Reading | The Power of Data |
