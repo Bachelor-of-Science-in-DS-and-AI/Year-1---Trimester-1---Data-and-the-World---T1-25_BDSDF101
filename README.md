@@ -18,6 +18,13 @@ By the end of this section, you’ll be able to clearly articulate your own why 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
 
+✅ Meet Your Instructor
+
+Dr. Anita Ramachandran is a Professor of Computer Science. She holds a Btech in EEE from NIT Calicut, a Master's in Telecom & Software Engineering 
+from Illinois Institute of Technology, Chicago and a PhD in the intersection of IoT, machine learning and networking technologies from BITS Pilani. 
+She has over 24 years of work experience, with 14 years in the software industry and the remaining with BITS Pilani.
+
+
 <br>
 
 ## <p align="center"><strong> Course Curriculum </strong></p>
