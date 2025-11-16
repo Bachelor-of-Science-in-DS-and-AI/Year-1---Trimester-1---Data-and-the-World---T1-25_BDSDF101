@@ -28,7 +28,7 @@ By the end of the course, you will be able to:
 
 ✅ <b> Meet Your Instructor </b>
 
-<p> <b> Dr. Anita Ramachandran </b> is a Professor of Computer Science. She holds a Btech in EEE from NIT Calicut, a Master's in Telecom & Software Engineering 
+<p align="justify"> <b> Dr. Anita Ramachandran </b> is a Professor of Computer Science. She holds a Btech in EEE from NIT Calicut, a Master's in Telecom & Software Engineering 
 from Illinois Institute of Technology, Chicago and a PhD in the intersection of IoT, machine learning and networking technologies from BITS Pilani. 
 She has over 24 years of work experience, with 14 years in the software industry and the remaining with BITS Pilani. </p>
 
