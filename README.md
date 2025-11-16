@@ -60,7 +60,7 @@ She has over 24 years of work experience, with 14 years in the software industry
 | **Lesson 2: Citibank - Protect Yourself Against Fraud** | **Video 1: Citibank's Fraud Protection System** | Week 2.2: Practice Quiz – Citibank - Protect Yourself Against Fraud | 
 | | Video 2: Behavioural Biometrics and Spending Patterns |  | 
 | |  **Reading:** Citibank - Protect Yourself Against Fraud |  |  |
-| **Lesson 3: How Amazon Prepares for the Great Indian Sale** | Video 1: Amazon's Great Indian Sale | |
+| **Lesson 3: How Amazon Prepares for the Great Indian Sale** | **Video 1: Amazon's Great Indian Sale** | |
 | | Video 2: Understanding Customer Behaviour |  | 
 | | Video 2: Dynamic Pricing |  | 
 | |  **Reading:** How Amazon Prepares for the Great Indian Sale |  |  |
@@ -72,14 +72,14 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Netflix's "We Think You'll Love These"** | **Video 1: Netflix's We Think You'll Love These** | Week 3.1: Practice Quiz – Netflix's "We Think You'll Love These" | 
+| **Lesson 1: Netflix's "We Think You'll Love These"** | **Video 1: Netflix's "We Think You'll Love These"** | Week 3.1: Practice Quiz – Netflix's "We Think You'll Love These" | 
 | | Video 2: Sentiment Analysis |  | 
 | | **Reading:** Netflix's "We Think You'll Love These"|  |  |
 | **Lesson 2: Quick Commerce Players and Their 10-Minute Deliveries** | **Video 1: Demand Forecasting Based on Historical Data** | Week 3.2: Practice Quiz – Quick Commerce Players and Their 10-Minute Deliveries | 
 | | Video 2: Logistics, Supply Chain and Route Optimization  |  | 
 | | Video 3: How The Order Reaches The Rider Fast | |
 | |  **Reading:** Quick Commerce Players and Their 10-Minute Deliveries |  |  |
-| **Lesson 3: Sightseeing Recommendations, Even on Dumbphones** | Video 1: Combining Geospatial Data with Behaviour Data and Search/Browsing History | Week 3.3: Practice Quiz – Sightseeing Recommendations, Even on Dumbphones" |
+| **Lesson 3: Sightseeing Recommendations, Even on Dumbphones** | **Video 1: Combining Geospatial Data with Behaviour Data and Search/Browsing History** | Week 3.3: Practice Quiz – Sightseeing Recommendations, Even on Dumbphones" |
 | | Video 2: What Happens on Basic Phones?  |  | 
 | |  **Reading:** Sightseeing Recommendations, Even on Dumbphones |  |  |
 | **Live Session** | **Oct 7, 2025 08:50 PM India** | |
