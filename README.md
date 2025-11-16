@@ -17,40 +17,72 @@ build motivation to stay engaged, and set yourself up for success as you progres
 By the end of this section, you’ll be able to clearly articulate your own why for learning and create a personal action plan to navigate
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
-✅ Program Structure
-#### Week 1: The Evolution of Data
-## Week 1: The Evolution of Data
 
-| Lesson / Activity | Video | Practice Quiz | Reading | Live Session |
-|--------------------|--------|----------------|----------|---------------|
-| **Lesson 1:** The Evolution of Data |  |  |  |  |
-| Video 1: The Evolution of Data | ✅ |  | 📖 *The Evolution of Data* |  |
-| Video 2: Data Explosion and Machine Intelligence | ✅ |  |  |  |
-| Video 3: Data Everywhere | ✅ |  |  |  |
-| Week 1.1 Practice Quiz |  | 🧩 *The Evaluation of Data* |  |  |
-| Live Session Recording |  |  |  | 🎥 *Design Discussion* |
+<br>
+
+## <p align="center"><strong> Course Curriculum </strong></p>
 
 
+#### ✅ Week 1: The Evolution of Data
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: The Evolution of Data** | **Video 1: The Evolution of Data** | Week 1.1: Practice Quiz – The Evaluation of Data | 
+| | Video 2: Data Explosion and Machine Intelligence |  | 
+| | Video 3: Data Everywhere |  | 
+| | **Reading:** The Evolution of Data |  |  |
+| **Live Session** | **Sep 19, 2025 06:30 PM India** | |
+
+<br><br>
+
+#### ✅ Week 2: Data in Action- Powering Life, Safety & Strategy
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Why Data - The Power of Data** | **Video 1: Impact of Data in Today's World** | Week 2.1: Practice Quiz – Why Data - The Power of Data | 
+| | Video 2: Capabilities of Data |   | 
+| | **Reading:** The Power of Data |  |  |
+| **Lesson 2: Citibank - Protect Yourself Against Fraud** | **Video 1: Citibank's Fraud Protection System** | Week 2.2: Practice Quiz – Citibank - Protect Yourself Against Fraud | 
+| | Video 2: Behavioural Biometrics and Spending Patterns |  | 
+| |  **Reading:** Citibank - Protect Yourself Against Fraud |  |  |
+| **Lesson 3: How Amazon Prepares for the Great Indian Sale** | Video 1: Amazon's Great Indian Sale | |
+| | Video 2: Understanding Customer Behaviour |  | 
+| | Video 2: Dynamic Pricing |  | 
+| |  **Reading:** How Amazon Prepares for the Great Indian Sale |  |  |
+| **Live Session** | **Sep 26, 2025 06:30 PM India** | |
+
+<br><br>
+
+#### ✅ Week 3: How Data Shapes Consumer Choices
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Netflix's "We Think You'll Love These"** | **Video 1: Netflix's "We Think You'll Love These"** | Week 3.1: Practice Quiz – Netflix's "We Think You'll Love These" | 
+| | Video 2: Sentiment Analysis |  | 
+| | **Reading:** Netflix's "We Think You'll Love These"|  |  |
+| **Lesson 2: Quick Commerce Players and Their 10-Minute Deliveries** | **Video 1: Demand Forecasting Based on Historical Data** | Week 3.2: Practice Quiz – Quick Commerce Players and Their 10-Minute Deliveries | 
+| | Video 2: Logistics, Supply Chain and Route Optimization  |  | 
+| | Video 3: How The Order Reaches The Rider Fast | |
+| |  **Reading:** Quick Commerce Players and Their 10-Minute Deliveries |  |  |
+| **Lesson 3: Sightseeing Recommendations, Even on Dumbphones** | Video 1: Module Summary | Week 3.3: Practice Quiz – Sightseeing Recommendations, Even on Dumbphones" |
+| | Video 2: What Happens on Basic Phones?  |  | 
+| |  **Reading:** Sightseeing Recommendations, Even on Dumbphones |  |  |
+| **Live Session** | **Oct 7, 2025 08:50 PM India** | |
 
 
-| Lesson| Video | Practice Quiz | Reading | Live Session |
-|-----------|-----------|----|----|----|
-| Lesson 1: The Evolution of Data|  
- | | Video 1: The Evolution of Data | | Reading | The Evolution of Data| |
-| | Video 2: Data Explosion and Machine Intelligence | |
-|| | Video 3: Data Everywhere | |
- ||| Week 1.1 Practice Quiz | The Evaluation of Data  |
- ||||||| Live Session |  |
- | Live Session Recording |  |
+<br><br>
 
-#### Week 2: Data in Action- Powering Life, Safety & Strategy
-| Lesson| Event | Topic |
-|----|-----------|-----------|
-| Lesson 1: Why Data - The Power of Data| 
-| | Video 1 | Impact of Data in Today's World |
-| | Video 2 | Capabilities of Data |
-| | Reading | The Power of Data |
-| | Week 2.1 Practice Quiz | Why Data - The Power of Data  |
-| | Live Session |  |
-| | Live Session Recording |  |
+#### ✅ Week 4: Making Sense of Data – From Search to Simplification
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Google It. No, ChatGPT It** | **Video 1: The Advantages of ChatGPT** |  | 
+| | Video 2: Understanding How ChatGPT Works | Week 4.1: Practice Quiz – Google It. No, ChatGPT It | 
+| | **Reading:** Google it. No, ChatGPT It|  |  |
+| **Lesson 2: Rounding Up** | **Video 1: Data As An Asset** | Week 4.2: Practice Quiz – Rounding Up | 
+| | Video 2: Elements of a Data-Enabled System |  | 
+| |  **Reading:** Module Summary |  |  |
+| **Live Session** | **Oct 10, 2025 08:50 PM India** | |
+
+<br><br>
 
