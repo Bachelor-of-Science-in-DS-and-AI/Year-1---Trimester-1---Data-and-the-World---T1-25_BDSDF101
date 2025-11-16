@@ -19,7 +19,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 <br>
 
-✅ Learning Objectives
+✅ <b> Learning Objectives </b>
 
 By the end of the course, you will be able to:
 - Understand the evolution of data.
