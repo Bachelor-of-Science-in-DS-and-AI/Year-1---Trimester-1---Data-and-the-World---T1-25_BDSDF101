@@ -91,8 +91,8 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Google It. No, ChatGPT It** | **Video 1: The Advantages of ChatGPT** |  | 
-| | Video 2: Understanding How ChatGPT Works | Week 4.1: Practice Quiz – Google It. No, ChatGPT It | 
+| **Lesson 1: Google It. No, ChatGPT It** | **Video 1: The Advantages of ChatGPT** | Week 4.1: Practice Quiz – Google It. No, ChatGPT It | 
+| | Video 2: Understanding How ChatGPT Works |  | 
 | | **Reading:** Google it. No, ChatGPT It|  |  |
 | **Lesson 2: Rounding Up** | **Video 1: Data As An Asset** | Week 4.2: Practice Quiz – Rounding Up | 
 | | Video 2: Elements of a Data-Enabled System |  | 
