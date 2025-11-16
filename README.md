@@ -17,6 +17,14 @@ build motivation to stay engaged, and set yourself up for success as you progres
 By the end of this section, you’ll be able to clearly articulate your own why for learning and create a personal action plan to navigate
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
+<br>
+
+✅ Learning Objectives
+
+By the end of the course, you will be able to:
+- Understand the evolution of data.
+- Understand the impact and significance of data, and how it is used, in today’s world.
+<br>
 
 ✅ <b> Meet Your Instructor </b>
 
