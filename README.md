@@ -64,7 +64,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | Video 2: Logistics, Supply Chain and Route Optimization  |  | 
 | | Video 3: How The Order Reaches The Rider Fast | |
 | |  **Reading:** Quick Commerce Players and Their 10-Minute Deliveries |  |  |
-| **Lesson 3: Sightseeing Recommendations, Even on Dumbphones** | Video 1: Module Summary | Week 3.3: Practice Quiz – Sightseeing Recommendations, Even on Dumbphones" |
+| **Lesson 3: Sightseeing Recommendations, Even on Dumbphones** | Video 1: Combining Geospatial Data with Behaviour Data and Search/Browsing History | Week 3.3: Practice Quiz – Sightseeing Recommendations, Even on Dumbphones" |
 | | Video 2: What Happens on Basic Phones?  |  | 
 | |  **Reading:** Sightseeing Recommendations, Even on Dumbphones |  |  |
 | **Live Session** | **Oct 7, 2025 08:50 PM India** | |
