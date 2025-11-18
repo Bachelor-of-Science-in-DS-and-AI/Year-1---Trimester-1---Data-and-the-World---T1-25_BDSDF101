@@ -37,9 +37,11 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 ## <p align="center"><strong> Course Curriculum </strong></p>
 
-<div align="center">
+
  
 #### ✅ Week 1: The Evolution of Data
+
+<div align="center">
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -49,9 +51,13 @@ She has over 24 years of work experience, with 14 years in the software industry
 | | **Reading:** The Evolution of Data |  |  |
 | **Live Session** | **Sep 19, 2025 06:30 PM India** | |
 
+</div>
+
 <br><br>
 
 #### ✅ Week 2: Data in Action- Powering Life, Safety & Strategy
+
+<div align="center">
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -69,7 +75,11 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 <br><br>
 
+</div>
+
 #### ✅ Week 3: How Data Shapes Consumer Choices
+
+<div align="center">
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -85,10 +95,12 @@ She has over 24 years of work experience, with 14 years in the software industry
 | |  **Reading:** Sightseeing Recommendations, Even on Dumbphones |  |  |
 | **Live Session** | **Oct 7, 2025 08:50 PM India** | |
 
-
+</div>
 <br><br>
 
 #### ✅ Week 4: Making Sense of Data – From Search to Simplification
+
+<div align="center">
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
