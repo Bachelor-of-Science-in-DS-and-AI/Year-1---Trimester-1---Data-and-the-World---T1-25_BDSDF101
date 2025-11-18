@@ -37,7 +37,8 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 ## <p align="center"><strong> Course Curriculum </strong></p>
 
-
+<div align="center">
+ 
 #### ✅ Week 1: The Evolution of Data
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
@@ -101,3 +102,4 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 <br><br>
 
+</div>
