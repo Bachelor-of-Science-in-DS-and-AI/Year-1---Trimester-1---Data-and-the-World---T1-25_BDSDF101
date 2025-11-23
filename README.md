@@ -41,6 +41,20 @@ She has over 24 years of work experience, with 14 years in the software industry
  
 #### ✅ Week 1: The Evolution of Data
 
+- <b> Module Description </b>
+
+
+  <p align = "justify"> This module explains the evolution of data. </p>
+
+- <b> Learning Objectives </b>
+
+   By the end of this module, you will be able to:
+
+    - Describe the evolution of data.
+    - Describe the enablers for data explosion in today's world.
+
+  <br>
+
 <div align="center">
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
@@ -56,6 +70,22 @@ She has over 24 years of work experience, with 14 years in the software industry
 <br><br>
 
 #### ✅ Week 2: Data in Action- Powering Life, Safety & Strategy
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This module explores the impact of data on our daily lives and highlights the powerful capabilities it offers. Learners will gain insights into how leading organisations leverage data to drive critical outcomes—for example, how financial institutions like Citibank use data to detect and prevent fraud, and how Amazon harnesses data to prepare for large-scale events such as the Great Indian Sale. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Describe the impact of data on day-to-day life and its role in shaping modern decision-making.
+   - Explain the capabilities of data in predictive and prescriptive analysis for informed business strategies.
+   - Understand how financial institutions like Citibank leverage data to detect and prevent fraud, using concepts such as machine learning, behavioural biometrics, and anomaly detection.
+   - Analyse how e-commerce companies like Amazon utilise data to prepare for large-scale events (e.g., the Great Indian Sale), applying techniques such as demand forecasting, time series analysis, predictive modelling, and dynamic pricing.
+   - Connect key data-driven techniques to real-world applications across industries, demonstrating the value of data in enhancing efficiency, security, and customer experience.
+
+<br>
 
 <div align="center">
 
@@ -79,6 +109,22 @@ She has over 24 years of work experience, with 14 years in the software industry
 
 #### ✅ Week 3: How Data Shapes Consumer Choices
 
+- <b> Module Description </b>
+
+  <p align = "justify"> This module explores how technology shapes personalised experiences across different domains. It covers how streaming services like Netflix generate tailored recommendations, how quick commerce players meet rapid delivery commitments, and how mobile devices provide sightseeing suggestions. Together, these examples highlight the power of data-driven systems in enhancing convenience and personalisation in everyday life. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Understand how Netflix applies recommender systems, user segmentation, data mining, and sentiment analysis for personalisation.
+   - Learn how Swiggy and similar platforms use demand forecasting, supply chains, and route optimisation for quick deliveries.
+   - Explore how sightseeing recommendations combine behavioral data, geospatial data, and data fusion to guide travelers.
+   - Discover how data-driven decision-making enhances personalisation, convenience, and operational efficiency across multiple industries today.
+   - Gain insights into big data applications demonstrating analytics’ transformative power in entertainment, commerce, and travel.
+
+<br>
+
 <div align="center">
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
@@ -99,6 +145,21 @@ She has over 24 years of work experience, with 14 years in the software industry
 <br><br>
 
 #### ✅ Week 4: Making Sense of Data – From Search to Simplification
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This module highlights ChatGPT’s potential as an alternative to search engines, while concluding the course by emphasising data as a valuable asset and exploring elements of a data-enabled system. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Describe why ChatGPT is popular for search, highlighting its conversational ability and contextual relevance.
+   - Explain the role of data in ChatGPT’s functioning, focusing on natural language processing and large language models.
+   - Recognise data as a critical asset in organisations, driving innovation, decision-making, and sustainable growth.
+   - Identify key elements of a data-enabled system that empower businesses with insights and competitive advantage.
+
+<br>
 
 <div align="center">
 
